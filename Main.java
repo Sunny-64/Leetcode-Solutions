@@ -17,5 +17,10 @@ public class Main {
         WaterPlants test2 = new WaterPlants();
         System.out.println(test2.wateringPlants(plants, capacity));
          */
+
+        int[] nums = {1,1,2};
+        RemoveDuplicatesFromSortedArray obj = new RemoveDuplicatesFromSortedArray();
+        System.out.println(obj.removeDuplicates(nums));
+
     }
 }
