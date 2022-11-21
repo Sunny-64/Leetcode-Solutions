@@ -1,4 +1,4 @@
-package Medium;
+// package Medium;
 // https://leetcode.com/problems/watering-plants/
 public class WaterPlants {
     public int wateringPlants(int[] plants, int capacity) {
